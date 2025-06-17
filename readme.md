@@ -23,9 +23,3 @@ The mission is considered complete when at least 4 robots gather around the targ
 - **World:** `complete_apartment.wbt`  
 - **Target Object:** `Solid` node (pink box with diffuse color: `0.8 0 0.8`)
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone git@github.com:AgastyaKro/RobotSearchAndRescue.git
-   cd RobotSearchAndRescue
